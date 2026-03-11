@@ -61,7 +61,7 @@
 
 ![img5](img/img5.jpg)
 
-[Манифесты Terraform]((https://github.com/ViktorLebedev93/orgnet-15.2hw/tree/main/terraform-yandex-lb)
+[Манифесты Terraform](https://github.com/ViktorLebedev93/orgnet-15.2hw/tree/main/terraform-yandex-lb)
 
 ### Правила приёма работы
 
